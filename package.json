@@ -1,0 +1,16 @@
+{
+  "name": "html-strings",
+  "version": "0.0.1",
+  "author": "Olli K <olli@salaliitto.com>",
+  "description": "Escape and unescape html-strings",
+  "contributors": [
+    {
+      "name": "Olli K",
+      "email": "olli@salaliitto.com"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  }
+}
